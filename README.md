@@ -56,7 +56,8 @@ The application will automatically be run after the code is compiled.
 ./app_builder.sh
 ```
 
-#Make it clickable
+####Make it clickable
+
 ![Clickable Demo](https://raw.githubusercontent.com/1hada/Directory_Flasher/master/how_to_preference_behavior.gif)
 
 
