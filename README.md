@@ -9,7 +9,7 @@ Here's a demo of what it can do !
 
 I will be assuming that you have Ubuntu 18.04 . 
 
-#If you only want to run the app.
+###If you only want to run the app.
 
 
 ### Prerequisites
@@ -31,7 +31,7 @@ Now to run the app all you have to do is type the following in a terminal.
 
 
 
-#If you want to compile the C code.
+###If you want to compile the C code.
 
 
 ### Prerequisites
@@ -56,7 +56,7 @@ The application will automatically be run after the code is compiled.
 ./app_builder.sh
 ```
 
-####Make it clickable
+###Make it clickable
 
 ![Clickable Demo](https://raw.githubusercontent.com/1hada/Directory_Flasher/master/how_to_preference_behavior.gif)
 
