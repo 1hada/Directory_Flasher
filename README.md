@@ -16,7 +16,7 @@ I will be assuming that you have Ubuntu 18.04 .
 
 This makes the app executable.
 ```
-sudo chmod +x ./directory_flasher_app
+sudo chmod +x directory_flasher_app
 ```
 
 Now to run the app all you have to do is type the following in a terminal.
@@ -40,7 +40,7 @@ Open a terminal and type the following :
 
 This makes the builder executable.
 ```
-sudo chmod +x ./app_builder.sh
+sudo chmod +x app_builder.sh
 ```
 This command will allow you to develop executable applications that use the gtk.
 ```
