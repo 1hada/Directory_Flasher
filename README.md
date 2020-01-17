@@ -2,6 +2,8 @@
 
 Hi ! The program makes files for people who just want to plan ahead!
 
+Here's a demo of what it can do !
+
 ![Directory Flasher Demo](https://raw.githubusercontent.com/1hada/Directory_Flasher/master/Directory_Flasher_Demo.gif)
 
 
@@ -55,7 +57,7 @@ The application will automatically be run after the code is compiled.
 ```
 
 #Make it clickable
-![Directory Flasher Demo](https://raw.githubusercontent.com/1hada/Directory_Flasher/master/how_to_preference_behavior.gif)
+![Clickable Demo](https://raw.githubusercontent.com/1hada/Directory_Flasher/master/how_to_preference_behavior.gif)
 
 
 
